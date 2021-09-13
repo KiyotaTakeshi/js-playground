@@ -1,0 +1,13 @@
+[*]
+# New line preferences
+charset = utf-8
+end_of_line = lf
+
+[*md]
+# Indentation and spacing
+indent_size = 2
+indent_style = space
+tab_width = 2
+
+# Markdown 使用時は末尾にスペースを記載できるようにする
+trim_trailing_whitespace = false
